@@ -27,4 +27,7 @@ public class Printer {
         return pages;
     }
 
+    public int getPagesPrinted() {
+        return pagesPrinted;
+    }
 }
